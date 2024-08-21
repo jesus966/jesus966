@@ -20,7 +20,7 @@ Apart from all of the above, I also maintain a blog - you can find my articles o
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jesus966/jesus966">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus966&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-pied-rho-50.vercel.app/api/top-langs/?username=jesus966&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 <a href="https://github.com/jesus966/jesus966">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesus966&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jesus's GitHub Stats" />
